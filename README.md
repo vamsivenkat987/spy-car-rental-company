@@ -56,7 +56,7 @@ You do not need to separate the output of consecutive test cases with empty line
 
 ## How to run this project
 ```
-$ https://github.com/vamsivenkat987/AnotherSubstringQueryProblem_Kattis.git
+$ git clone https://github.com/vamsivenkat987/spy-car-rental-company.git
 $ cd src/com/company
-$ java QueryProblem.java < 1.in
+$ java Main.java < A.in > A.out
 ```
